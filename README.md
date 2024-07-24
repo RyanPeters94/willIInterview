@@ -153,11 +153,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_ --
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
+- [ ] Hero Page
+- [ ] Login Oauth
+- [ ] Profile Page
+- [ ] Resume Upload
+- [ ] Job Board
+    - [ ] Filtering
+- [ ] Resume Scan AI
+- [ ] Stripe Integration
 See the [open issues](https://github.com/RyanPeters94/willIInterview/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

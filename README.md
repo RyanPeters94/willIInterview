@@ -207,13 +207,13 @@ Project Link: [https://github.com/RyanPeters94/willIInterview](https://github.co
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 * []()
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 

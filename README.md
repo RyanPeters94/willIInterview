@@ -90,9 +90,9 @@ We are seeking to build a cutting edge Job board geared towards software enginee
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url] -->
 * [![Vue][Vue.js]][Vue-url]
-* [![Typescript][Typescript.js]][Typescript-url]
-* [![Nanostores][Nanostores.js]][Nanostores-url]
-* [![Storybook][Storybook.js]][Storybook-url]
+* [![Typescript][Typescript]][Typescript-url]
+* [![Nanostores][Nanostores]][Nanostores-url]
+* [![Storybook][Storybook]][Storybook-url]
 * [![Vitest][Vitest]][Vitest-url]
 * [![Playwright][Playwright]][Playwright-url]
 * [![VueRouter][VueRouter]][VueRouter-url]

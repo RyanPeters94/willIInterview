@@ -108,8 +108,8 @@ We are seeking to build a cutting edge Job board geared towards software enginee
 ## Getting Started
  **Coming Soon**
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<!-- This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps. -->
 
 ### Prerequisites
  **Coming Soon**
@@ -142,9 +142,9 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 **Coming Soon**
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
